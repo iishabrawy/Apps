@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">برنامج المكافأت</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="text_excelent">ممتاز</string>
+    <string name="text_v_good">جيد جداً</string>
+    <string name="text_good">جيد</string>
+    <string name="text_fail">راسب</string>
+    <string name="time">الوقت الأن</string>
+    <string name="company">شركة نجد للتدريب و تقنية المعلومات المحدودة</string>
+    <string name="btn_submit">احسب</string>
+    <string name="title_activity_shared_preff">التفضيلات</string>
+    <string name="Pref_user_name">الإســـم</string>
+    <string name="Pref_branch_name">الفـــرع</string>
+    <string name="Pref_kind">النــوع</string>
+    <string name="Pref_kind_male">ذكــــر</string>
+    <string name="Pref_kind_female">أنثــي</string>
+    <string name="Pref_btn_save">حفـــظ</string>
+    <string name="Pref_Text1_hint">الإســـم</string>
+    <string name="Pref_Text2_hint">الفـــرع</string>
+    <string name="reward_result">مبلغ مكافأتك هو : </string>
+    <string name="action_report">أخبرنا برأيك</string>
+    <string name="dialog_message">هل تريد الخروج من البرنامج ؟؟</string>
+    <string name="dialog_title">انهـــاء البرنـــامج...</string>
+    <string name="menu_toast">قريبا ستقدر على إخبارنا برايك ;) </string>
+    <string name="mr_welcome">أهلا بك أستاذ : </string>
+    <string name="mrs_welcome">أهلا بكِ أستاذة : </string>
+
+
+</resources>

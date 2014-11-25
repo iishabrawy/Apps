@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Micro0/AndroidStudioProjects/RewardsProgram/app/build/intermediates/pre-dexed/debug/classes-d61246a41a7f1a7373da78442dab28f51d39a2f9.jar"
+        jar="/Users/Micro0/AndroidStudioProjects/RewardsProgram/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/Micro0/AndroidStudioProjects/RewardsProgram/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-9cd42c19f8bcd981d0e2ddf8feffebb83e054423.jar"
+        jar="/All/Course/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/Micro0/AndroidStudioProjects/RewardsProgram/app/build/intermediates/pre-dexed/debug/libGoogleAnalyticsServices-1d87dabd9f57431d5afde012d9207cf9255eb9da.jar"
+        jar="/Users/Micro0/AndroidStudioProjects/RewardsProgram/app/libs/libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="db1e65d9e3ee616f871cb23120fbea8f18ad3e4c"/>
+    <item
+        dex="/Users/Micro0/AndroidStudioProjects/RewardsProgram/app/build/intermediates/pre-dexed/debug/google-play-services-26da9b33559a2f4954240bd266af7c6652cc3c74.jar"
+        jar="/Users/Micro0/AndroidStudioProjects/RewardsProgram/app/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059"/>
+
+</pre-dex-items>
